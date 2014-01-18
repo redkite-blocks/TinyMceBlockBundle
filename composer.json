@@ -38,6 +38,5 @@
         "psr-0": { "RedKiteCms\\Block\\TinyMceBlockBundle": ""
         }
     },
-    "target-dir" : "RedKiteCms/Block/TinyMceBlockBundle",
-    "minimum-stability": "dev"
+    "target-dir" : "RedKiteCms/Block/TinyMceBlockBundle"
 }
